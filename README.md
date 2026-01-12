@@ -1,6 +1,6 @@
 # ❄️ Arctic Client
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Undetected-green?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Minecraft-1.8.x--1.20.x-lightblue?style=for-the-badge" alt="Minecraft Version">
