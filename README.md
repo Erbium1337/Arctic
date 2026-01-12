@@ -30,8 +30,3 @@
 ## 📸 Скриншоты
 <img width="493" height="290" alt="image" src="https://github.com/user-attachments/assets/96668abe-ba3c-43c9-8ad4-d2e27e99a50d" />
 <img width="465" height="237" alt="image" src="https://github.com/user-attachments/assets/6da2c1ac-460b-4456-944d-a3fb89385bc3" />
-
----
-<p align="center">
-  тг: <a href="https://t.me/BETADLC">Telegram</a>
-</p>
